@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ignacio Caballero Marín</h1>
+<h1 align="center">Hi 👋, I'm Nacho Caballero Marín</h1>
 <h3 align="center">Computer Engineer specialized in Information Technology, with extensive experience in backend development. Currently, I am expanding my skills in frontend development, focusing on technologies such as React.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nachocab22&label=Profile%20views&color=0e75b6&style=flat" alt="nachocab22" /> </p>
