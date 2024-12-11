@@ -31,6 +31,6 @@
   <b>Other technologies</b> <p> <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> </p>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nachocab22&show_icons=true&locale=en&layout=compact" alt="nachocab22" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nachocab22&show_icons=true&locale=en&layout=compact&theme=dark" alt="nachocab22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nachocab22&show_icons=true&locale=en" alt="nachocab22" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nachocab22&show_icons=true&locale=en&theme=dark" alt="nachocab22" /></p>
